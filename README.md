@@ -1,4 +1,4 @@
-# GCSpike: Quantify the variation of GC content at the tips of chromosomes #
+# GCSpike: Quantify the variation of GC content at chromosomes' tips #
 
 ![alt text](https://github.com/Xamp1e/GCSpike/blob/main/icon.png)
 
