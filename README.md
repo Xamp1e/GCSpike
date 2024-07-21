@@ -12,7 +12,7 @@ Simply provide the accession number of Genebank or Refseq, and GCPeak would calc
 
 Link to publication: 
 
-Please also include the URL (https://www.github.com/peaselab/phydget).
+Please also include the URL (https://github.com/Xamp1e/GCPeak.git).
 
 **Be sure also to cite Changepoint.** 
 
