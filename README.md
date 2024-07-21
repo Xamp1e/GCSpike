@@ -6,7 +6,7 @@ GCPeak is a method for quantifying the variation of GC content at the tips of ch
 
 ## Usage ##
 
-Simply provide the accession number of Genebank or Refseq, and GCPeak would calculate the GC content with a user-provided window size. After that, the R package Changepoint would be used for determining the distance from the end of chromosome 
+Simply provide the accession number of Genebank or Refseq, and GCPeak would calculate the GC content with a user-provided window size. After that, the R package Changepoint would be used for determining the distance from the end of chromosome.
 
 ## How to Cite ##
 
