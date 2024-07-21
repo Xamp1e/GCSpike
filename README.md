@@ -1,4 +1,4 @@
-# GCSpike: Quantify GC-spike chromosomes based on genomic sequences #
+# GCSpike: Quantify the variation of GC content at the tips of chromosomes #
 
 ![alt text](https://github.com/Xamp1e/GCSpike/blob/main/icon.png)
 
