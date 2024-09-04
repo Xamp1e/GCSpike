@@ -39,8 +39,12 @@ GCPeak <- function(accession_number, windows) {
   GCAname <- gsub("\\/","",next_layer_links[[1]])
   # 构建完整的下载链接
   genomic_fna_url <- paste0(next_layer_url[[1]], filename)
-  dir.create("GCPeak")
-  dir.create("GCPeak/download")
+  if (!dir.exists("GCPeak")) {
+    dir.create("GCPeak")
+  }
+  if (!dir.exists("GCPeak/download")) {
+    dir.create("GCPeak/download")
+  }
   download.file(genomic_fna_url, destfile = paste0("GCPeak/download/",filename),method = "auto")
   # 定义下载函数
   # download_with_resume <- function(url, destfile) {
